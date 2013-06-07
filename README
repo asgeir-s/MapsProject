@@ -1,3 +1,4 @@
+Android Studio project built withe Gradle. The project uses Google Play Services and automaticly running tests when project is built (withe "./gradlew connectedCheck").
+
 This file was created by Android Studio (I/O Preview) AI-130.692269 for binding GitHub repository
-This file was modified by Android Studio (I/O Preview) AI-130.692269 for binding GitHub repository
 This file was modified by Android Studio (I/O Preview) AI-130.692269 for binding GitHub repository
