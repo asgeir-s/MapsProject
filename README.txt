@@ -1,4 +1,4 @@
-Android Studio project-template built withe Gradle. The project uses Google Play Services and automaticly running tests when project is built (withe "./gradlew connectedCheck").
+Android Studio project-template built withe Gradle. The project uses Google Play Services and automaticly running tests when project is built (with "./gradlew connectedCheck").
 
 When the project is built from Android Studio the tests will not run, but every thing else works.
 
