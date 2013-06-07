@@ -1,5 +1,4 @@
-This new samples of the Google Play Services uses the Play Services library
-and the support library as artifacts from the SDK.
+Android Studio project built withe Gradle. The project uses Google Play Services and automaticly running tests when project is built (withe "./gradlew connectedCheck").
 
 Make sure you have both "Google Repository", and "Android Support Repository"
 installed in your SDK using the SDK Manager.
