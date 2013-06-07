@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="play-services-3.1.36.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Rovdyr/build/exploded-bundles/play-services-3.1.36.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plus/build/exploded-bundles/play-services-3.1.36.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/panorama/build/exploded-bundles/play-services-3.1.36.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/auth/build/exploded-bundles/play-services-3.1.36.aar/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/maps/build/exploded-bundles/play-services-3.1.36.aar/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
